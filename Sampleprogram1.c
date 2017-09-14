@@ -9,6 +9,10 @@
 #include <sys/sem.h>
 
 #define SIZE 16
+//Matt Noblett
+//Ben Commet
+//Semaphore Lab -
+
 
 typedef union semun{
     int val;
